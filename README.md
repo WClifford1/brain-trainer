@@ -2,6 +2,12 @@
 
 A simple web-based application to train your mental arithmetic skills and reaction times.
 
+## 🌐 Live Demo
+
+**[Try it now at: https://wclifford1.github.io/brain-trainer/](https://wclifford1.github.io/brain-trainer/)**
+
+No installation required - just click and start training your brain!
+
 ## Features
 
 ### 🧮 Mental Arithmetic Trainer
@@ -19,18 +25,24 @@ A simple web-based application to train your mental arithmetic skills and reacti
 
 ## How to Use
 
-1. Open `index.html` in your web browser
-2. Choose your training mode:
+### Option 1: Play Online (Recommended)
+Visit **[https://wclifford1.github.io/brain-trainer/](https://wclifford1.github.io/brain-trainer/)** in your web browser - no setup required!
+
+### Option 2: Run Locally
+1. Clone this repository
+2. Open `index.html` in your web browser
+3. Choose your training mode:
    - **Mental Arithmetic Trainer** for math practice
    - **Reaction Time Test** for reflex training
-3. Follow the on-screen instructions
-4. Use the **Home button** to switch between modes anytime
+4. Follow the on-screen instructions
+5. Use the **Home button** to switch between modes anytime
 
 ## Quick Start
 
+### Local Development
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/brain-trainer.git
+git clone https://github.com/WClifford1/brain-trainer.git
 
 # Open in browser
 open index.html
@@ -39,7 +51,7 @@ open index.html
 ## Technologies Used
 
 - **HTML5** - Structure and layout
-- **CSS3** - Styling with gradients and animations  
+- **CSS3** - Styling with gradients and animations
 - **Vanilla JavaScript** - Game logic and interactivity
 
 ## Screenshots
