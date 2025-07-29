@@ -1,8 +1,8 @@
-# Brain Trainer 🧠
+# Brain Trainer
 
 A simple web-based application to train your mental arithmetic skills and reaction times.
 
-## 🌐 Live Demo
+## Live Demo
 
 **[Try it now at: https://wclifford1.github.io/brain-trainer/](https://wclifford1.github.io/brain-trainer/)**
 
@@ -10,14 +10,14 @@ No installation required - just click and start training your brain!
 
 ## Features
 
-### 🧮 Mental Arithmetic Trainer
+### Mental Arithmetic Trainer
 - **20 challenging questions** with addition, subtraction, multiplication, and division
 - **Negative numbers supported** for increased difficulty
 - **Division with remainders** - following proper mathematical conventions
 - **Instant feedback** on each answer
 - **Score tracking** with percentage results
 
-### ⚡ Reaction Time Test
+### Reaction Time Test
 - **5 automated attempts** to measure your reaction speed
 - **Random delays** between 1-5 seconds to keep you on your toes
 - **Early click detection** with automatic retry
@@ -71,4 +71,4 @@ MIT License - feel free to use and modify as you wish!
 
 ---
 
-**Train your brain, improve your speed! 🚀**
+**Train your brain, improve your speed! **
